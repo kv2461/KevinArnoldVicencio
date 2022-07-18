@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kvcode-portfolio.netlify.app/](https://kvcode-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Express, Node, Javascript, my cats**
+- 💬 Ask me about **React, Express, Node, Javascript, MongoDB, my cats**
 
 - 📫 How to reach me **kevinarnoldcode@gmail.com**
 
