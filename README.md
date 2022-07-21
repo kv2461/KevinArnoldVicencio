@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Vicencio</h1>
 <h3 align="center">A full-stack builder</h3>
 
-- 🔭 I’m currently working on [List Connection](https://github.com/kv2461/list-connection)
+- 🔭 I’m currently working on [List Connection](https://github.com/kv2461/list-connection) and [Web Maven](https://github.com/kv2461/web-maven)
 
 - 🌱 I’m currently learning **the MERN stack**
 
